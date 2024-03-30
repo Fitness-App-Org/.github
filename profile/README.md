@@ -1,4 +1,19 @@
-## Hi there 👋
+## Our App
+This is an app for tracking workouts & fitness using ai (add a problem statement and main focus here)
+
+### App design
+
+### Brand design
+
+### Architecture
+If we split the app into separate frontend and backend repos explain how that works here
+
+### Resources
+- Links
+- Our website
+- If this is a for profit company add corporate resources here
+- Google developer account
+- Apple developer account
 
 <!--
 

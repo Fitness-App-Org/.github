@@ -2,18 +2,21 @@
 This is an app for tracking workouts & fitness using ai (add a problem statement and main focus here)
 
 ### App design
+[Figma](https://www.figma.com/file/jPe3q2JuKZ8OXQ95C6ykkE/AI-Workout-App?type=design&node-id=0%3A1&mode=design&t=qKO4rWjWScUBGhEh-1)
 
 ### Brand design
+[Notion](https://www.notion.so/fitness-app-ai/invite/b78647a07e974b79b77950567932ff80faedbaee)
 
 ### Architecture
 If we split the app into separate frontend and backend repos explain how that works here
 
 ### Resources
-- Links
-- Our website
+- [Notion](https://www.notion.so/fitness-app-ai/invite/b78647a07e974b79b77950567932ff80faedbaee)
+- ourwebsite.com
 - If this is a for profit company add corporate resources here
 - Google developer account
 - Apple developer account
+- Reach out if you need access to anything!
 
 <!--
 

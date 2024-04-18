@@ -1,2 +1,2 @@
-## Our App
-This is an app for tracking workouts & fitness using ai (add a problem statement and main focus here, explain how the repos are structured)
+## Peak Performance
+Improve your workouts and reach your goals faster than ever
